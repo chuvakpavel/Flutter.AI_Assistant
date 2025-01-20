@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1025437176913",
+    "project_id": "medicine-assistant-b2bce",
+    "storage_bucket": "medicine-assistant-b2bce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025437176913:android:7d4a0c59bb93cc3a1ad470",
+        "android_client_info": {
+          "package_name": "com.example.medicine_assistant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABM-wzLBcBteCuDHR_2zaPwBNpvbydEys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
